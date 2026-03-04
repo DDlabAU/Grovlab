@@ -11,6 +11,3 @@ Alt papir, klude og savsmul med kontakt til
 - metalstøv 
 
 Alt andet skal i den almindelige affaldspand 
-
-
-
