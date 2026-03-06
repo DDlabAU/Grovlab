@@ -1,7 +1,7 @@
-<h1>Overordnet liste over selvantændelige materialer og stoffer på et værksted</h1>
+<h1>Overordnet liste over selvantændelige materialer og stoffer på et værksted ⚒️☭ 👷 🦺 </h1>
 
 <p>
-De mest almindelige reelle selvantændelsesrisici i træværksteder er:
+⚠️ De mest almindelige reelle selvantændelsesrisici i træværksteder er:
 </p>
 
 <ol>
